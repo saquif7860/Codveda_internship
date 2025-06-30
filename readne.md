@@ -38,13 +38,6 @@ The objective is to predict the correct species of a flower based on its measure
 
 ---
 
-## 🧪 Machine Learning Model
-
-- Model Used: Logistic Regression / K-Nearest Neighbors 
-- Accuracy Achieved: ~95% 
-
----
-
 ## 📊 Visualizations Included
 
 - Heatmap of feature correlation
